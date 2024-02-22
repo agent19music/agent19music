@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on react.js projects.
 - 🌱 I’m currently learning backend frameworks, particularly flask and django.
-- 👯 I’m looking to collaborate on any php or js based applicatios.
+- 👯 I’m looking to collaborate on any php or js based applicatinos.
 - 🤔 I’m looking for help with solidity programming.
 - 💬 Ask me about anime.
 - 📫 How to reach me: seanmotanya@gmail.com
