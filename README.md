@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on react.js projects.
-- 🌱 I’m currently learning backend frameworks, particularly Flask and Django.
+- 🌱 I’m currently learning backend python frameworks, particularly Flask and Django.
 - 👯 I’m looking to collaborate on any python or js based applicatinos.
 - 🤔 I’m looking for help with solidity programming.
 - 💬 Ask me about anime.
