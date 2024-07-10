@@ -7,7 +7,7 @@
 - 💬 Ask me about javascript.
 - 📫 How to reach me: seanmotanya@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Eren Yaeger was right !!
+- ⚡ Fun fact: Eren Yaeger was right !!!
 
 
 ## 🌐 Socials:
