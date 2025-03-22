@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on react.js and next.js app projects.
-- 🌱 I’m currently learning backend frameworks, particularly Flask and Django.
-- 👯 I’m looking to collaborate on any python or js based applicatinos.
+- 🔭 I’m currently working on react native projects.
+- 🌱 I’m currently learning machine learning .
+- 👯 I’m looking to collaborate on any python or ts based applicatinos.
 - 🤔 I’m looking for help with solidity programming.
-- 💬 Ask me about javascript.
+- 💬 Ask me about typescript.
 - 📫 How to reach me: seanmotanya@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Eren Yaeger was right !!!
