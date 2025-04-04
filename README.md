@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on react native projects.
 - 🌱 I’m currently learning machine learning .
-- 👯 I’m looking to collaborate on any python or ts based applicatinos.
+- 👯 I’m looking to collaborate on any python or ts based applications.
 - 🤔 I’m looking for help with solidity programming.
 - 💬 Ask me about typescript.
 - 📫 How to reach me: seanmotanya@gmail.com
