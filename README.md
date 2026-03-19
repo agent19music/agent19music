@@ -5,7 +5,7 @@ An engineer working across mobile, web, and backend. I'm always building somethi
 &nbsp;
 
 Currently Technical Lead at **[Uzski Corp](https://uzskicorp.agency)**  
-Leading development of **[Camposocial](https://camposocial.app)** and **[Uniwell](https://uniwell.seanmotanya.dev)**  
+Leading development of **[Camposocial](https://camposocial.app)** and **[Uniwell](https://uniwell.uzskicorp.agency)**  
 Open to collab on any **Python** or **TypeScript** projects
 
 Find me on twitter [@uzski404](https://x.com/uzski404)
