@@ -12,6 +12,8 @@ Find me on twitter [@uzski404](https://x.com/uzski404)
 
 &nbsp;
 
+[![Sean Motanya profile views](https://u8views.com/api/v1/github/profiles/132571767/views/day-week-month-total-count.svg)](https://u8views.com/github/agent19music)
+
 ---
 
 
